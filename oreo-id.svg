@@ -1,0 +1,1173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="30" viewBox="0 0 81 30">
+  <defs>
+    <linearGradient id="oreoid-a" x1="-1417.785%" x2="387.901%" y1="-134.416%" y2="92.359%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-b" x1="-246.911%" x2="118.257%" y1="-40.175%" y2="68.92%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="47%" stop-color="#902B91"/>
+      <stop offset="59%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-c" x1="-445.971%" x2="87.787%" y1="-26.892%" y2="58.631%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-d" x1="-18.583%" x2="520.459%" y1="39.672%" y2="120.971%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-e" x1="-123.971%" x2="424.179%" y1="26.261%" y2="109.112%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-f" x1="-178.431%" x2="290.272%" y1="8.329%" y2="93.839%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-g" x1="-300.715%" x2="238.259%" y1="-2.862%" y2="78.404%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-h" x1="-371.162%" x2="125.376%" y1="-1116.588%" y2="258.459%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-i" x1="-337.729%" x2="107.715%" y1="-1144.945%" y2="228.128%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-j" x1="-313.887%" x2="94.811%" y1="-1170.43%" y2="199.9%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-k" x1="-364.469%" x2="91.555%" y1="-1203.116%" y2="175.377%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-l" x1="-424.197%" x2="88.024%" y1="-1231.463%" y2="152.735%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-m" x1="-483.595%" x2="83.927%" y1="-1256.624%" y2="132.956%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-n" x1="-548.275%" x2="79.621%" y1="-1289.715%" y2="116.201%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-o" x1="-618.67%" x2="75.178%" y1="-1326.366%" y2="102.129%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-p" x1="-694.642%" x2="71.707%" y1="-1362.202%" y2="90.909%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-q" x1="-794.783%" x2="68.94%" y1="-1419.387%" y2="82.949%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-r" x1="-874.275%" x2="67.079%" y1="-1442.478%" y2="77.827%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-s" x1="-983.546%" x2="67.065%" y1="-1498.535%" y2="75.279%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-t" x1="-1098.912%" x2="69.62%" y1="-1546.548%" y2="77.063%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-u" x1="-1222.019%" x2="75.355%" y1="-1593.13%" y2="82.502%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-v" x1="-1174.224%" x2="81.037%" y1="-1413.605%" y2="86.832%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-w" x1="-1138.326%" x2="88.195%" y1="-1262.976%" y2="92.605%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-x" x1="-1083.229%" x2="98.643%" y1="-1113.475%" y2="100.028%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-y" x1="-1040.781%" x2="110.614%" y1="-985.504%" y2="107.551%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-z" x1="-1036.765%" x2="125.472%" y1="-917.171%" y2="117.772%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-A" x1="-960.848%" x2="140.154%" y1="-759.164%" y2="121.871%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-B" x1="-931.946%" x2="158.08%" y1="-680.642%" y2="130.487%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-C" x1="-897.362%" x2="177.421%" y1="-594.497%" y2="136.7%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-D" x1="-863.828%" x2="198.382%" y1="-517.62%" y2="142.165%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-E" x1="-832.623%" x2="221.296%" y1="-447.535%" y2="146.505%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-F" x1="-809.259%" x2="246.668%" y1="-386.892%" y2="150.308%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-G" x1="-782.947%" x2="274.463%" y1="-385.595%" y2="167.423%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-H" x1="-757.08%" x2="303.846%" y1="-415.736%" y2="196.508%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-I" x1="-732.577%" x2="335.817%" y1="-445.265%" y2="230.865%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-J" x1="-711.07%" x2="370.429%" y1="-479.387%" y2="273.377%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-K" x1="-686.938%" x2="407.957%" y1="-506.443%" y2="319.956%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-L" x1="-659.522%" x2="445.868%" y1="-533.192%" y2="374.374%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-M" x1="-638.495%" x2="489.263%" y1="-562.724%" y2="439.797%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-N" x1="-624.734%" x2="540.594%" y1="-598.474%" y2="521.206%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-O" x1="-605.079%" x2="593.055%" y1="-629.836%" y2="613.225%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-P" x1="-585.557%" x2="649.49%" y1="-664.113%" y2="723.647%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-Q" x1="-566.248%" x2="711.254%" y1="-696.544%" y2="851.036%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-R" x1="-534.507%" x2="763.433%" y1="-710.475%" y2="977.598%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-S" x1="-431.014%" x2="717.458%" y1="-629.284%" y2="993.078%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-T" x1="-349.632%" x2="681.681%" y1="-559.676%" y2="1013.172%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-U" x1="-281.056%" x2="646.094%" y1="-495.948%" y2="1033.49%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-V" x1="-222.888%" x2="610.924%" y1="-437.919%" y2="1053.117%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-W" x1="-174.382%" x2="577.775%" y1="-385.455%" y2="1073.47%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-X" x1="-133.796%" x2="544.383%" y1="-337.893%" y2="1094.76%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-Y" x1="-100.101%" x2="514.158%" y1="-294.627%" y2="1115.853%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-Z" x1="-71.827%" x2="483.797%" y1="-255.532%" y2="1138.339%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aa" x1="-48.184%" x2="453.2%" y1="-220.312%" y2="1161.657%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ab" x1="-26.479%" x2="414.099%" y1="-188%" y2="1183.6%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ac" x1="-13.377%" x2="400.346%" y1="-159.21%" y2="1205.616%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ad" x1="-11.883%" x2="447.204%" y1="-134.835%" y2="1238.138%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ae" x1="-10.688%" x2="501.947%" y1="-112.883%" y2="1266.242%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-af" x1="-9.14%" x2="561.549%" y1="-94.114%" y2="1299.518%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ag" x1="-6.938%" x2="617.732%" y1="-77.706%" y2="1328.168%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ah" x1="-5.478%" x2="686.238%" y1="-64.216%" y2="1350.774%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ai" x1="-5.29%" x2="764.624%" y1="-55.024%" y2="1410.005%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aj" x1="-6.076%" x2="843.939%" y1="-47.504%" y2="1439.536%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ak" x1="-8.349%" x2="933.369%" y1="-44.209%" y2="1481.31%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-al" x1="-13.052%" x2="1036.371%" y1="-43.939%" y2="1529.093%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-am" x1="-20.476%" x2="1146.912%" y1="-48.363%" y2="1583.699%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-an" x1="-32.225%" x2="1265.007%" y1="-55.919%" y2="1619.714%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ao" x1="-35.896%" x2="1217.703%" y1="-52.556%" y2="1446.617%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ap" x1="-41.759%" x2="1167.63%" y1="-51.177%" y2="1288.53%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aq" x1="-438.938%" x2="688.771%" y1="-383.418%" y2="618.916%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ar" x1="-489.969%" x2="672.204%" y1="-467.97%" y2="645.523%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-as" x1="-544.835%" x2="652.254%" y1="-567.521%" y2="675.103%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-at" x1="-602.84%" x2="630.753%" y1="-682.433%" y2="701.577%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-au" x1="-667.022%" x2="610.242%" y1="-819.086%" y2="728.874%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-av" x1="-712.506%" x2="572.337%" y1="-947.412%" y2="733.33%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aw" x1="-665.104%" x2="478.715%" y1="-958.904%" y2="654.614%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ax" x1="-627.025%" x2="404.635%" y1="-982.469%" y2="590.666%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ay" x1="-587.353%" x2="340.487%" y1="-1000.513%" y2="529.037%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-az" x1="-547.076%" x2="286.178%" y1="-1017.997%" y2="472.432%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aA" x1="-511.358%" x2="241.873%" y1="-1037.996%" y2="421.698%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aB" x1="-474.778%" x2="204.233%" y1="-1058.29%" y2="375.426%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aC" x1="-441.017%" x2="173.203%" y1="-1078.633%" y2="333.056%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aD" x1="-408.049%" x2="147.445%" y1="-1099.425%" y2="294.56%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aE" x1="-76.502%" x2="394.893%" y1="-.373%" y2="187.932%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aF" x1="-1056.568%" x2="2130.741%" y1="-1296.898%" y2="2587.125%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aG" x1="-552.919%" x2="2546.664%" y1="-680.882%" y2="3076.055%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aH" x1="-217.224%" x2="376.359%" y1="-261.061%" y2="427.942%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aI" x1="-23.622%" x2="461.054%" y1="10.24%" y2="274.219%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aJ" x1="-298.564%" x2="2619.252%" y1="-432.356%" y2="3607.286%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aK" x1="-1624.6%" x2="1425.027%" y1="-1967.404%" y2="1706.176%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aL" x1="-87.974%" x2="124.324%" y1="-362.889%" y2="271.595%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aM" x1="-25.868%" x2="534.508%" y1="-54.231%" y2="721.488%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aN" x1="-2193.219%" x2="851.403%" y1="-2593.361%" y2="991.965%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aO" x1="-76.999%" x2="77.478%" y1="-456.434%" y2="159.75%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aP" x1="-2760.13%" x2="450.578%" y1="-3472.102%" y2="543.113%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aQ" x1="-465.857%" x2="100.199%" y1="-661.998%" y2="117.979%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aR" x1="-2902.204%" x2="290.445%" y1="-3816.858%" y2="359.885%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aS" x1="-1462.098%" x2="1662.837%" y1="-1767.271%" y2="1987.355%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aT" x1="-380.257%" x2="102.834%" y1="-187.331%" y2="79.699%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aU" x1="-301.058%" x2="290.838%" y1="-354.483%" y2="328.885%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aV" x1="-2555.955%" x2="510.058%" y1="-3085.662%" y2="603.719%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aW" x1="-2050.923%" x2="1006.943%" y1="-2346.098%" y2="1141.52%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aX" x1="-317.466%" x2="156.686%" y1="-98.085%" y2="92.834%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aY" x1="-50.499%" x2="1134.653%" y1="-53.076%" y2="1162.505%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-aZ" x1="-60.758%" x2="1089.473%" y1="-54.963%" y2="1034.468%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-ba" x1="-74.259%" x2="1050.889%" y1="-59.115%" y2="929.668%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+    <linearGradient id="oreoid-bb" x1="-428.431%" x2="2558.759%" y1="-594.09%" y2="3416.076%">
+      <stop offset="0%" stop-color="#F59300"/>
+      <stop offset="18%" stop-color="#E60E16"/>
+      <stop offset="34%" stop-color="#E60D66"/>
+      <stop offset="40%" stop-color="#E60D82"/>
+      <stop offset="48%" stop-color="#902B91"/>
+      <stop offset="62%" stop-color="#005CA9"/>
+      <stop offset="77%" stop-color="#009FE4"/>
+      <stop offset="98%" stop-color="#8EC228"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#oreoid-a)" fill-rule="nonzero" d="M60.5912115,10.53 C62.0096035,10.53 62.9480617,9.95647059 62.9480617,8.43529412 C62.9480617,7.46823529 62.2700881,7.09235294 61.1906828,7.09235294 C59.7526652,7.09235294 58.7749559,7.64647059 58.7749559,9.14647059 C58.7749559,10.1347059 59.4743392,10.53 60.5912115,10.53 Z"/>
+    <path fill="url(#oreoid-b)" fill-rule="nonzero" d="M62.3485903,11.4970588 L58.4359692,11.4970588 L57.0568282,19.1223529 C56.7,21.2558824 57.5367621,22.0252941 59.433304,22.0252941 C60.2039897,22.0362468 60.9697993,21.902717 61.6902423,21.6317647 L62.2772247,18.5294118 C62.0391647,18.6499334 61.7772974,18.7173977 61.5100441,18.7270588 C61.2103084,18.7270588 61.0907709,18.57 61.1710573,18.1147059 L62.3485903,11.4970588 Z"/>
+    <path fill="url(#oreoid-c)" fill-rule="nonzero" d="M70.1774009,8.39647059 L64.8053524,8.39647059 L62.4092511,21.8294118 L68.141696,21.8294118 C72.0150661,21.8294118 75.190837,19.0058824 75.190837,13.8282353 C75.190837,10.5105882 73.2336344,8.39647059 70.1774009,8.39647059 Z M68.0810352,18.4111765 L67.0230396,18.4111765 L68.2005727,11.8235294 L69.279978,11.8235294 C70.4967621,11.8235294 71.0962335,12.7058824 71.0962335,14.1335294 C71.0962335,16.5741176 70.1381498,18.4111765 68.0810352,18.4111765 Z"/>
+    <path fill="url(#oreoid-d)" fill-rule="nonzero" d="M6.96885463,8.18294118 C2.99557269,8.18294118 3.29604185e-14,11.1458824 3.29604185e-14,15.1164706 C3.29604185e-14,19.0482353 2.99557269,22.0111765 6.96885463,22.0111765 C10.9831718,22.0111765 13.9787445,19.0482353 13.9787445,15.1164706 C13.9787445,11.1458824 10.9831718,8.18294118 6.96885463,8.18294118 Z M6.96885463,17.9223529 C5.39167401,17.9223529 4.27301762,16.6870588 4.27301762,15.1164706 C4.27301762,13.5176471 5.39167401,12.2717647 6.96885463,12.2717647 C8.58707048,12.2717647 9.66469163,13.5176471 9.66469163,15.1164706 C9.66469163,16.6782353 8.58707048,17.9223529 6.96885463,17.9223529 Z"/>
+    <path fill="url(#oreoid-e)" fill-rule="nonzero" d="M26.9405286,18.2770588 C25.9610352,18.2770588 24.9779736,17.6064706 23.8842952,16.7364706 C25.7023348,16.2070588 26.9405286,14.7952941 26.9405286,12.9052941 C26.9405286,10.0411765 24.6443392,8.38058824 22.0876652,8.38058824 L14.7138106,8.38058824 L14.7138106,21.8135294 L19.1063656,21.8135294 L19.1063656,17.3294118 C20.9636564,18.7517647 23.1813436,22.0111765 26.2161674,22.0111765 C27.1742511,22.0111765 28.034207,21.7729412 28.4606167,21.4976471 L28.4606167,18.12 C28.2304626,18.2382353 27.2973568,18.2770588 26.9405286,18.2770588 Z M21.3436784,14.1882353 L19.1063656,14.1882353 L19.1063656,12.1341176 L21.3436784,12.1341176 C21.6265901,12.1182306 21.9033039,12.220231 22.1067025,12.4153784 C22.3101012,12.6105259 22.421603,12.8809926 22.414163,13.1611765 C22.4249507,13.4423257 22.3145021,13.714776 22.110326,13.9106694 C21.90615,14.1065627 21.6274637,14.2074615 21.3436784,14.1882353 Z"/>
+    <polygon fill="url(#oreoid-f)" fill-rule="nonzero" points="33.355 16.775 38.926 16.775 38.926 13.32 33.355 13.32 33.355 12.134 40.384 12.134 40.384 8.381 29.16 8.381 29.16 21.814 40.384 21.814 40.384 18.06 33.355 18.06"/>
+    <path fill="url(#oreoid-g)" fill-rule="nonzero" d="M47.3511013,8.18294118 C43.3760352,8.18294118 40.3804626,11.1458824 40.3804626,15.1164706 C40.3804626,19.0482353 43.3760352,22.0111765 47.3511013,22.0111765 C51.3654185,22.0111765 54.3609912,19.0482353 54.3609912,15.1164706 C54.3609912,11.1458824 51.3654185,8.18294118 47.3511013,8.18294118 Z M47.3511013,17.9223529 C45.7721366,17.9223529 44.6552643,16.6870588 44.6552643,15.1164706 C44.6552643,13.5176471 45.7721366,12.2717647 47.3511013,12.2717647 C48.967533,12.2717647 50.0469383,13.5176471 50.0469383,15.1164706 C50.0469383,16.6782353 48.967533,17.9223529 47.3511013,17.9223529 Z"/>
+    <path fill="url(#oreoid-h)" d="M63.9364758,28.1047059 C63.8373056,28.0994344 63.7401682,28.1338906 63.6669869,28.2002981 C63.5938056,28.2667055 63.5507484,28.3594671 63.547533,28.4576471 L63.4172907,29.4335294 C63.3764239,29.6291518 63.5019988,29.8209652 63.699185,29.8641176 L63.699185,29.8641176 C63.9015949,29.8741927 64.0747429,29.7217854 64.0881278,29.5217647 L64.21837,28.5441176 C64.2406619,28.4488169 64.2233797,28.3486545 64.1703937,28.2660609 C64.1174077,28.1834673 64.0331451,28.1253435 63.9364758,28.1047059 Z"/>
+    <path fill="url(#oreoid-i)" d="M64.8660132,28.1947059 C64.6659608,28.202319 64.5080745,28.3655128 64.509185,28.5635294 L64.4485242,29.5464706 C64.4218574,29.7441954 64.5597188,29.9267919 64.7589648,29.9576471 L64.7589648,29.9576471 C64.9593001,29.9491095 65.1169382,29.7853924 65.115793,29.5870588 L65.1782379,28.6058824 C65.2048348,28.4075675 65.0659812,28.2247077 64.8660132,28.1947059 L64.8660132,28.1947059 Z"/>
+    <path fill="url(#oreoid-j)" d="M65.7991189,28.2194118 C65.5967648,28.2371849 65.4464698,28.4125855 65.4619163,28.6129412 L65.4619163,29.5976471 C65.4485867,29.7969664 65.5995946,29.9699129 65.8009031,29.9858824 L65.8009031,29.9858824 C66.0027804,29.9672018 66.1525692,29.7923922 66.1381057,29.5923529 L66.129185,28.6076471 C66.142748,28.4114565 65.9968562,28.2398535 65.7991189,28.2194118 Z"/>
+    <path fill="url(#oreoid-k)" d="M66.7268722,28.1788235 C66.5307734,28.2121941 66.3966558,28.3932314 66.4235683,28.5882353 L66.5002863,29.5694118 C66.5010951,29.766061 66.6584449,29.927144 66.8571145,29.9347059 L66.8571145,29.9347059 C67.0567571,29.9013148 67.1929782,29.7164428 67.1639868,29.5182353 L67.0872687,28.5370588 C67.0817191,28.34221 66.9238371,28.1852749 66.7268722,28.1788235 L66.7268722,28.1788235 Z"/>
+    <path fill="url(#oreoid-l)" d="M68.0507048,28.4117647 C68.0364132,28.2122119 67.8617983,28.0615811 67.659978,28.0747059 C67.461574,28.11946 67.336618,28.3139055 67.3798678,28.5105882 L67.5279515,29.4829412 C67.5413084,29.683199 67.7162077,29.8348651 67.9186784,29.8217647 L67.9186784,29.8217647 C68.116241,29.7762465 68.2397077,29.5816397 68.1952203,29.3858824 L68.0507048,28.4117647 Z"/>
+    <path fill="url(#oreoid-m)" d="M68.9927313,28.2176471 C68.9852709,28.0829075 68.8980891,27.9652304 68.7704416,27.9176029 C68.6427941,27.8699754 68.4987553,27.90138 68.4031823,27.9976761 C68.3076093,28.0939721 68.2785272,28.236998 68.3290308,28.3623529 L68.5449119,29.3241176 C68.5743864,29.521844 68.7583799,29.6599048 68.9588326,29.6347059 L68.9588326,29.6347059 C69.1529485,29.5761224 69.2629009,29.3735866 69.2050441,29.1811765 L68.9927313,28.2176471 Z"/>
+    <path fill="url(#oreoid-n)" d="M69.9169163,27.9582353 C69.9004188,27.8239065 69.8050891,27.7119788 69.6740546,27.6730883 C69.54302,27.6341978 69.4011377,27.6757221 69.3125955,27.7788755 C69.2240532,27.8820289 69.2056474,28.0272433 69.2657048,28.1488235 L69.5475991,29.0929412 C69.592098,29.2875373 69.7849775,29.411856 69.9829295,29.3735294 L69.9829295,29.3735294 C70.1728616,29.3011264 70.2683818,29.0909093 70.1970264,28.9023529 L69.9169163,27.9582353 Z"/>
+    <path fill="url(#oreoid-o)" d="M70.8303965,27.6352941 C70.8039711,27.5029613 70.701077,27.3985229 70.5680144,27.3689741 C70.4349519,27.3394252 70.2967961,27.3903343 70.2157145,27.4987933 C70.1346328,27.6072524 70.1259049,27.7528224 70.1934581,27.87 L70.5413656,28.7911765 C70.5983679,28.9835924 70.8009277,29.0951617 70.9963216,29.0417647 L70.9963216,29.0417647 C71.1784646,28.9550621 71.257597,28.7406012 71.1747357,28.5582353 L70.8303965,27.6352941 Z"/>
+    <path fill="url(#oreoid-p)" d="M71.7010573,27.2505882 C71.6657521,27.120154 71.5558769,27.0226658 71.4209596,27.0020681 C71.2860423,26.9814703 71.1515625,27.0416528 71.0781389,27.1554875 C71.0047154,27.2693222 71.0062144,27.4153109 71.0819604,27.5276471 L71.4940969,28.4241176 C71.5644335,28.6119613 71.774041,28.7093409 71.9651101,28.6429412 L71.9651101,28.6429412 C72.1424576,28.5446912 72.206889,28.3236048 72.1096256,28.1470588 L71.7010573,27.2505882 Z"/>
+    <path fill="url(#oreoid-q)" d="M72.5503084,26.8058824 C72.5027498,26.6829912 72.3875569,26.5984495 72.2548609,26.5890494 C72.1221649,26.5796493 71.9959671,26.6470911 71.9311881,26.7620243 C71.8664091,26.8769576 71.8747657,27.018594 71.9526211,27.1252941 L72.4272026,27.9917647 C72.5147766,28.1699758 72.7290638,28.2478997 72.912489,28.1682353 L72.912489,28.1682353 C73.0819263,28.0585249 73.1311517,27.8347118 73.0231057,27.6652941 L72.5503084,26.8058824 Z"/>
+    <path fill="url(#oreoid-r)" d="M73.3656608,26.3047059 C73.3155603,26.177829 73.1935161,26.0929619 73.0558555,26.0892736 C72.9181949,26.0855853 72.7916847,26.1637928 72.7347134,26.287801 C72.6777421,26.4118092 72.7013871,26.5575057 72.7947357,26.6576471 L73.329978,27.4888235 C73.426059,27.6644225 73.6464248,27.7318506 73.8259692,27.6405882 L73.8259692,27.6405882 C73.9876875,27.5194264 74.0210636,27.292269 73.9009031,27.1305882 L73.3656608,26.3047059 Z"/>
+    <path fill="url(#oreoid-s)" d="M74.1453304,25.7470588 C74.0813525,25.6310306 73.9550049,25.5623873 73.8216856,25.5712261 C73.6883663,25.5800649 73.5724108,25.6647724 73.5246604,25.788208 C73.4769101,25.9116436 73.5060811,26.0512759 73.5993833,26.1458824 L74.1917181,26.9382353 C74.2995578,27.1070196 74.5244283,27.1588917 74.69663,27.0547059 L74.69663,27.0547059 C74.8492931,26.9228507 74.8667671,26.6942349 74.7358811,26.5411765 L74.1453304,25.7470588 Z"/>
+    <path fill="url(#oreoid-t)" d="M74.8821806,25.1382353 C74.8103425,25.026363 74.6791549,24.9661886 74.5464111,24.9842215 C74.4136672,25.0022543 74.3037389,25.0951834 74.2650538,25.22207 C74.2263687,25.3489565 74.2660294,25.4865041 74.3665639,25.5741176 L75.014207,26.3223529 C75.1325435,26.4839889 75.3608612,26.5203113 75.5244714,26.4035294 L75.5244714,26.4035294 C75.6676123,26.2616288 75.6676123,26.0319006 75.5244714,25.89 L74.8821806,25.1382353 Z"/>
+    <path fill="url(#oreoid-u)" d="M75.5762115,24.48 C75.4972289,24.3721456 75.3616931,24.3200579 75.2298091,24.3468745 C75.097925,24.373691 74.994154,24.4744379 74.9645911,24.6043634 C74.9350282,24.7342888 74.9851566,24.8692949 75.0927093,24.9494118 L75.7885242,25.6552941 C75.9195677,25.8069926 76.1488209,25.8281043 76.3059251,25.7029412 L76.3059251,25.7029412 C76.4383533,25.5506964 76.4232844,25.3216338 76.2720264,25.1876471 L75.5762115,24.48 Z"/>
+    <path fill="url(#oreoid-v)" d="M76.2220705,23.7741176 C76.1358728,23.6698067 75.9956126,23.6255544 75.8642704,23.6612313 C75.7329281,23.6969082 75.6351906,23.8058084 75.6149444,23.9390331 C75.5946982,24.0722577 75.6557488,24.2047662 75.7706828,24.2770588 L76.5164537,24.93 C76.6577809,25.0726545 76.8884868,25.0773595 77.0356388,24.9405882 L77.0356388,24.9405882 C77.1567808,24.779257 77.125047,24.5516934 76.9642731,24.4288235 L76.2220705,23.7741176 Z"/>
+    <path fill="url(#oreoid-w)" d="M77.6101322,23.6276471 L76.8197577,23.0276471 C76.6697339,22.8938407 76.4386519,22.9048749 76.3023568,23.0523529 C76.1915494,23.2208603 76.2375696,23.4461002 76.405837,23.5588235 L77.1962115,24.1588235 C77.3479897,24.2904505 77.5781056,24.2787181 77.7153965,24.1323529 L77.7153965,24.1323529 C77.8256734,23.9639382 77.7787896,23.7391463 77.6101322,23.6276471 L77.6101322,23.6276471 Z"/>
+    <path fill="url(#oreoid-x)" d="M78.1846256,22.7841176 L77.355,22.2352941 C77.2546405,22.1453157 77.110271,22.1218929 76.9861091,22.1754445 C76.8619473,22.228996 76.7810609,22.3495726 76.7794295,22.4835402 C76.777798,22.6175077 76.8557245,22.7399764 76.9785463,22.7964706 L77.8081718,23.34 C77.9689736,23.4618242 78.1986909,23.4344017 78.3255727,23.2782353 L78.3255727,23.2782353 C78.4212217,23.1029089 78.3588177,22.8841396 78.1846256,22.7841176 L78.1846256,22.7841176 Z"/>
+    <path fill="url(#oreoid-y)" d="M78.7038106,21.9035294 L77.8385022,21.4164706 C77.7320094,21.3334456 77.5861688,21.3199682 77.46597,21.3820442 C77.3457712,21.4441202 77.2735956,21.5701908 77.2816061,21.7040765 C77.2896166,21.8379621 77.3763216,21.9547327 77.5030837,22.0023529 L78.3683921,22.4858824 C78.5363662,22.5967141 78.7631034,22.5543699 78.8786564,22.3905882 L78.8786564,22.3905882 C78.9654007,22.2082867 78.8873631,21.9909015 78.7038106,21.9035294 L78.7038106,21.9035294 Z"/>
+    <path fill="url(#oreoid-z)" d="M79.1587665,20.9894118 L78.266696,20.5641176 C78.156105,20.5111583 78.0253501,20.5205787 77.9236853,20.5888303 C77.8220205,20.657082 77.7648912,20.7737958 77.7738174,20.8950068 C77.7827437,21.0162178 77.8563693,21.1235112 77.9669604,21.1764706 L78.8590308,21.6017647 C79.0352753,21.6999145 79.2584952,21.6411942 79.3621586,21.4694118 L79.3621586,21.4694118 C79.40031,21.3791534 79.4002649,21.2775305 79.3620335,21.1873053 C79.3238021,21.0970801 79.2505794,21.0257931 79.1587665,20.9894118 L79.1587665,20.9894118 Z"/>
+    <path fill="url(#oreoid-A)" d="M79.5494934,20.0452941 L78.6235242,19.6923529 C78.5064244,19.6224754 78.358615,19.6277651 78.246927,19.7058304 C78.1352389,19.7838957 78.0808443,19.9199381 78.1083372,20.0524471 C78.1358301,20.1849561 78.2399989,20.2888127 78.3737445,20.3170588 L79.2997137,20.67 C79.4822409,20.7547878 79.6998736,20.6814739 79.7921366,20.5041176 L79.7921366,20.5041176 C79.8217125,20.4114495 79.8127395,20.3109444 79.7672026,20.2248369 C79.7216657,20.1387295 79.6433185,20.0741172 79.5494934,20.0452941 Z"/>
+    <path fill="url(#oreoid-B)" d="M79.8724229,19.0764706 L78.9232599,18.78 C78.802449,18.7215171 78.6582153,18.7383772 78.5545156,18.8231041 C78.4508159,18.907831 78.4068425,19.0447437 78.4420943,19.1731318 C78.4773461,19.30152 78.5852989,19.3976218 78.7180837,19.4188235 L79.6672467,19.7170588 C79.8549343,19.7901743 80.0672971,19.7016087 80.1453965,19.5176471 L80.1453965,19.5176471 C80.1913756,19.3215475 80.06989,19.1252041 79.8724229,19.0764706 L79.8724229,19.0764706 Z"/>
+    <path fill="url(#oreoid-C)" d="M80.1257709,18.0882353 L79.1569824,17.8588235 C79.0321738,17.8082925 78.8890042,17.8348951 78.7912447,17.9267819 C78.6934852,18.0186687 78.6593291,18.1587393 78.7039905,18.2846027 C78.7486519,18.4104662 78.8638191,18.4986989 78.9981938,18.51 L79.9651982,18.7411765 C80.1575822,18.8008306 80.3630627,18.6984279 80.4290749,18.51 L80.4290749,18.51 C80.4624387,18.3108339 80.3269316,18.1224021 80.1257709,18.0882353 L80.1257709,18.0882353 Z"/>
+    <path fill="url(#oreoid-D)" d="M80.3077533,17.0858824 L79.3264758,16.9217647 C79.1975115,16.87904 79.0552049,16.9154009 78.9632966,17.0145609 C78.8713883,17.1137209 78.8471003,17.2570992 78.9013113,17.3804753 C78.9555223,17.5038513 79.0780743,17.5841067 79.2140749,17.5852941 L80.1953524,17.7476471 C80.3922907,17.7955033 80.591402,17.6773379 80.6413877,17.4829412 L80.6413877,17.4829412 C80.6599815,17.2822087 80.5106738,17.1045173 80.3077533,17.0858824 L80.3077533,17.0858824 Z"/>
+    <path fill="url(#oreoid-E)" d="M80.4201542,16.0729412 L79.4299559,15.9758824 C79.2980056,15.940937 79.1576467,15.9864434 79.072214,16.0918674 C78.9867813,16.1972914 78.9724296,16.3426979 79.0356349,16.4624746 C79.0988402,16.5822514 79.2276507,16.6537492 79.3639427,16.6447059 L80.354141,16.74 C80.5533956,16.7743129 80.7434884,16.6437202 80.7805507,16.4470588 L80.7805507,16.4470588 C80.7829454,16.3501688 80.7463139,16.256309 80.6787204,16.1861421 C80.6111269,16.1159751 80.5181126,16.0752533 80.4201542,16.0729412 Z"/>
+    <path fill="url(#oreoid-F)" d="M80.4647577,15.0547059 L79.4709912,15.0264706 C79.3388367,15.0042513 79.2057223,15.060319 79.130335,15.1699546 C79.0549477,15.2795903 79.0511416,15.4226459 79.1205947,15.5360517 C79.1900479,15.6494574 79.3199967,15.7123724 79.4531498,15.6970588 L80.4469163,15.7235294 C80.6480462,15.7441907 80.8285764,15.6010251 80.8519163,15.4023529 L80.8519163,15.4023529 C80.8472971,15.3054308 80.8038825,15.2143086 80.7312502,15.1490888 C80.6586179,15.083869 80.5627362,15.0499108 80.4647577,15.0547059 L80.4647577,15.0547059 Z"/>
+    <path fill="url(#oreoid-G)" d="M79.4335242,14.0770588 C79.3004322,14.0648192 79.1722985,14.1302687 79.1053383,14.2446932 C79.0383782,14.3591177 79.0448233,14.5016151 79.121846,14.6096684 C79.1988687,14.7177218 79.3323993,14.7715928 79.4638546,14.7476471 L80.4576211,14.7052941 C80.6605739,14.7102673 80.8298972,14.5530103 80.8376432,14.3523529 L80.8376432,14.3523529 C80.8116361,14.15311 80.6291961,14.0111017 80.4272907,14.0329412 L79.4335242,14.0770588 Z"/>
+    <path fill="url(#oreoid-H)" d="M80.3255947,13.02 L79.3371806,13.1311765 C79.2034818,13.1275017 79.0798483,13.2011309 79.0205794,13.3197263 C78.9613106,13.4383217 78.9772474,13.5801907 79.0613905,13.683025 C79.1455337,13.7858594 79.2824922,13.8308492 79.4121145,13.7982353 L80.4005286,13.6870588 C80.6026859,13.6794025 80.7613955,13.513003 80.7573568,13.3129412 L80.7573568,13.3129412 C80.7185991,13.1149678 80.5262792,12.9844829 80.3255947,13.02 Z"/>
+    <path fill="url(#oreoid-I)" d="M80.1507489,12.0158824 L79.1712555,12.1923529 C79.0376104,12.1981372 78.9195966,12.2803419 78.8690602,12.4028525 C78.8185237,12.5253632 78.8447116,12.6657631 78.936119,12.7623715 C79.0275264,12.8589799 79.1674277,12.8941196 79.2943612,12.8523529 L80.2738546,12.6758824 C80.4743975,12.6527706 80.6199157,12.4759832 80.6021366,12.2770588 L80.6021366,12.2770588 C80.5489507,12.0827433 80.3480596,11.9665061 80.1507489,12.0158824 L80.1507489,12.0158824 Z"/>
+    <path fill="url(#oreoid-J)" d="M79.9063216,11.0258824 L78.9411013,11.2711765 C78.8105034,11.2903918 78.7026963,11.3821366 78.6639944,11.5069969 C78.6252925,11.6318572 78.6625862,11.7676032 78.759854,11.8559177 C78.8571219,11.9442323 78.9970464,11.969392 79.1195154,11.9205882 L80.0829515,11.6752941 C80.2818518,11.6394279 80.4151259,11.4526796 80.3826872,11.2552941 L80.3826872,11.2552941 C80.3506725,11.1621041 80.2823283,11.0854363 80.1928623,11.0423505 C80.1033962,10.9992648 80.0002307,10.9933356 79.9063216,11.0258824 L79.9063216,11.0258824 Z"/>
+    <path fill="url(#oreoid-K)" d="M78.6467181,10.3658824 C78.5153809,10.3900995 78.4102615,10.487632 78.3774392,10.6157265 C78.3446168,10.7438209 78.3900809,10.8791023 78.4939023,10.9622698 C78.5977237,11.0454373 78.7409567,11.0613143 78.860815,11.0029412 L79.8046256,10.6905882 C80.0010171,10.6419186 80.1211805,10.4459269 80.0740308,10.2511765 L80.0740308,10.2511765 C79.992429,10.0678147 79.7777648,9.98241428 79.5905286,10.0588235 L78.6467181,10.3658824 Z"/>
+    <path fill="url(#oreoid-L)" d="M78.2881057,9.48352941 C78.1548074,9.51367439 78.0521723,9.6189766 78.0265933,9.75183763 C78.0010143,9.88469867 78.0573386,10.0199413 78.1701067,10.0964336 C78.2828748,10.1729259 78.430717,10.1761725 78.5468062,10.1047059 L79.4674229,9.72882353 C79.6593512,9.66497907 79.7646888,9.46129909 79.7047137,9.27 L79.7047137,9.27 C79.6111148,9.09188429 79.390687,9.02051586 79.2087225,9.10941176 L78.2881057,9.48352941 Z"/>
+    <path fill="url(#oreoid-M)" d="M77.8688326,8.62764706 C77.7386925,8.66771511 77.6446948,8.7799387 77.6290965,8.9138673 C77.6134981,9.0477959 77.6792352,9.17822033 77.7967553,9.24650779 C77.9142755,9.31479525 78.061458,9.3080921 78.1721366,9.22941176 L79.064207,8.79 C79.2508709,8.71339445 79.3418632,8.50365284 79.2693833,8.31705882 L79.2693833,8.31705882 C79.1639548,8.14701033 78.9405243,8.09136934 78.7662555,8.19176471 L77.8688326,8.62764706 Z"/>
+    <path fill="url(#oreoid-N)" d="M77.2211894,8.29411765 C77.3380659,8.45886997 77.5672752,8.49980417 77.735022,8.38588235 L78.5931938,7.88647059 C78.7744809,7.79787762 78.8500322,7.58155871 78.7626872,7.40117647 L78.7626872,7.40117647 C78.6452515,7.23702219 78.4161402,7.19689236 78.2488546,7.31117647 L77.3906828,7.80882353 C77.2101726,7.89809184 77.134877,8.11367832 77.2211894,8.29411765 L77.2211894,8.29411765 Z"/>
+    <path fill="url(#oreoid-O)" d="M76.7180617,7.51058824 C76.8466657,7.66617699 77.0775335,7.69128797 77.2372467,7.56705882 L78.0579515,7.01117647 C78.231878,6.90989609 78.2927638,6.69012287 78.1953304,6.51529412 L78.1953304,6.51529412 C78.0668402,6.36048446 77.8366001,6.33614068 77.6779295,6.46058824 L76.8572247,7.01823529 C76.6831151,7.11755571 76.6212711,7.33635729 76.7180617,7.51058824 L76.7180617,7.51058824 Z"/>
+    <path fill="url(#oreoid-P)" d="M76.1667621,6.76764706 C76.3048682,6.91545474 76.5378293,6.92492419 76.6877313,6.78882353 L77.4656167,6.17647059 C77.6330401,6.06384633 77.6782912,5.83927021 77.5673128,5.67176471 L77.5673128,5.67176471 C77.4282667,5.52541648 77.1961274,5.51676677 77.0463436,5.65235294 L76.266674,6.26470588 C76.1000926,6.37723061 76.0556109,6.60114476 76.1667621,6.76764706 Z"/>
+    <path fill="url(#oreoid-Q)" d="M75.5601542,6.06529412 C75.7090998,6.20248691 75.9417524,6.19620381 76.0829075,6.05117647 L76.8161894,5.38588235 C76.9741103,5.26156812 77.0033671,5.03553801 76.8822026,4.87588235 L76.8822026,4.87588235 C76.7336143,4.74052926 76.5028655,4.74758808 76.3630176,4.89176471 L75.6279515,5.55705882 C75.4678795,5.67919478 75.437588,5.90627185 75.5601542,6.06529412 L75.5601542,6.06529412 Z"/>
+    <path fill="url(#oreoid-R)" d="M74.9071586,5.40705882 C75.0651835,5.53352176 75.2966593,5.51070502 75.4263436,5.35588235 L76.1114537,4.65 C76.2608871,4.5151312 76.2735834,4.28673094 76.14,4.13647059 L76.14,4.13647059 C75.9825571,4.01020098 75.7516451,4.03304064 75.6225991,4.18764706 L74.9339207,4.89352941 C74.7840777,5.02845695 74.7721357,5.25760743 74.9071586,5.40705882 L74.9071586,5.40705882 Z"/>
+    <path fill="url(#oreoid-S)" d="M74.2077753,4.79470588 C74.3747015,4.90990714 74.6041864,4.87142178 74.7233921,4.70823529 L75.3567621,3.94941176 C75.4972485,3.80575058 75.4972485,3.57777883 75.3567621,3.43411765 L75.3567621,3.43411765 C75.1897155,3.32046699 74.9614716,3.35966102 74.8429295,3.52235294 L74.2077753,4.28117647 C74.0675081,4.42424076 74.0675081,4.65164159 74.2077753,4.79470588 L74.2077753,4.79470588 Z"/>
+    <path fill="url(#oreoid-T)" d="M73.469141,4.23529412 C73.6432708,4.33868519 73.8690801,4.2844207 73.975837,4.11352941 L74.5538987,3.31235294 C74.6827196,3.15863684 74.6636955,2.93126671 74.5110793,2.80058824 L74.5110793,2.80058824 C74.3370293,2.69767963 74.1116458,2.75282094 74.0061674,2.92411765 L73.4263216,3.72529412 C73.2967122,3.87812182 73.3158201,4.10570641 73.469141,4.23529412 L73.469141,4.23529412 Z"/>
+    <path fill="url(#oreoid-U)" d="M72.6894714,3.72176471 C72.8709409,3.81236539 73.09234,3.74250921 73.1872467,3.56470588 L73.7082159,2.72647059 C73.8264019,2.5641957 73.791495,2.33820333 73.6297137,2.21823529 L73.6297137,2.21823529 C73.4492865,2.12794128 73.2289947,2.19794995 73.1355066,2.37529412 L72.6145374,3.21352941 C72.4955711,3.37489437 72.5288677,3.60072625 72.6894714,3.72176471 L72.6894714,3.72176471 Z"/>
+    <path fill="url(#oreoid-V)" d="M71.8776872,3.26647059 C72.0649195,3.34528118 72.281395,3.26026401 72.3629736,3.07588235 L72.8232819,2.20235294 C72.9284514,2.0322312 72.8778735,1.81023639 72.7090969,1.70117647 L72.7090969,1.70117647 C72.5223518,1.62352972 72.3071571,1.70835574 72.2255947,1.89176471 L71.7652863,2.76529412 C71.6587739,2.93479696 71.7087016,3.15741603 71.8776872,3.26647059 L71.8776872,3.26647059 Z"/>
+    <path fill="url(#oreoid-W)" d="M71.0355727,2.86764706 C71.2271998,2.93490482 71.4377451,2.83630076 71.5065859,2.64705882 L71.9008811,1.74176471 C71.9938805,1.56457624 71.9274577,1.34636102 71.7510132,1.24941176 L71.7510132,1.24941176 C71.5589612,1.18467999 71.3499522,1.28450886 71.2817841,1.47352941 L70.8839207,2.37705882 C70.790345,2.55409363 70.8579037,2.77264336 71.0355727,2.86764706 L71.0355727,2.86764706 Z"/>
+    <path fill="url(#oreoid-X)" d="M70.1684802,2.52882353 C70.3650328,2.58174213 70.5677906,2.46725547 70.621652,2.27294118 L70.9552863,1.34647059 C71.0359873,1.16454076 70.9572874,0.952030692 70.7768722,0.864705882 L70.7768722,0.864705882 C70.580896,0.812911123 70.3793666,0.927153977 70.3254846,1.12058824 L69.9900661,2.04882353 C69.9075031,2.23018453 69.9868098,2.44354894 70.1684802,2.52882353 L70.1684802,2.52882353 Z"/>
+    <path fill="url(#oreoid-Y)" d="M69.2781938,2.25176471 C69.4784008,2.28969627 69.6722982,2.16157742 69.7135242,1.96411765 L69.9793612,1.01647059 C70.0468005,0.827505884 69.9493572,0.61985387 69.7599119,0.548823529 L69.7599119,0.548823529 C69.5605223,0.51102836 69.3676749,0.639506487 69.3281498,0.836470588 L69.0605286,1.78588235 C68.9919951,1.973925 69.0889905,2.1815303 69.2781938,2.25176471 L69.2781938,2.25176471 Z"/>
+    <path fill="url(#oreoid-Z)" d="M68.3700661,2.03470588 C68.5720588,2.05873141 68.756239,1.91817485 68.7839868,1.71882353 L68.9838106,0.755294118 C69.0371824,0.562739981 68.926734,0.362977194 68.7340308,0.303529412 L68.7340308,0.303529412 C68.5324125,0.279554252 68.3487551,0.420318588 68.3218943,0.619411765 L68.1185022,1.58823529 C68.0676062,1.77972154 68.1786466,1.97679391 68.3700661,2.03470588 Z"/>
+    <path fill="url(#oreoid-aa)" d="M67.4494493,1.88117647 C67.6525369,1.89225169 67.8267945,1.739568 67.8401762,1.53882353 L67.9757709,0.562941176 C68.0154999,0.365985588 67.8886038,0.173792646 67.6903084,0.130588235 L67.6903084,0.130588235 C67.5912639,0.125804589 67.4944035,0.160427672 67.4213332,0.226734335 C67.348263,0.293040999 67.3050616,0.385515235 67.3013656,0.483529412 L67.1711233,1.45941176 C67.135422,1.65090245 67.2578537,1.83643085 67.4494493,1.88117647 L67.4494493,1.88117647 Z"/>
+    <path fill="url(#oreoid-ab)" d="M66.521696,1.79294118 C66.7220313,1.78440359 66.8796695,1.62068655 66.8785242,1.42235294 L66.9409692,0.441176471 C66.9679454,0.244812794 66.8332209,0.0624613423 66.6358811,0.0282352941 L66.6358811,0.0282352941 C66.4355458,0.0367728798 66.2779076,0.200489925 66.2790529,0.398823529 L66.2183921,1.38176471 C66.1904319,1.57740139 66.3248081,1.75956969 66.521696,1.79294118 L66.521696,1.79294118 Z"/>
+    <path fill="url(#oreoid-ac)" d="M65.9275771,1.37294118 L65.9275771,0.39 C65.9397675,0.186834972 65.7832732,0.012301806 65.5778855,0 L65.5778855,0 C65.3760081,0.0186805064 65.2262194,0.19349018 65.2406828,0.393529412 L65.2406828,1.37823529 C65.2188102,1.51133783 65.2783921,1.64467091 65.3926314,1.71826772 C65.5068707,1.79186454 65.6542527,1.79186454 65.768492,1.71826772 C65.8827313,1.64467091 65.9423132,1.51133783 65.9204405,1.37823529 L65.9275771,1.37294118 Z"/>
+    <path fill="url(#oreoid-ad)" d="M64.6554846,1.80705882 C64.857115,1.77624478 64.9957823,1.59021617 64.9659251,1.39058824 L64.8874229,0.409411765 C64.8855286,0.209815496 64.7234406,0.0479290452 64.521674,0.0441176471 L64.521674,0.0441176471 C64.3225655,0.0783599608 64.1867931,0.262622958 64.2148018,0.460588235 L64.2915198,1.44352941 C64.2934138,1.64215123 64.4547033,1.80324784 64.6554846,1.80705882 L64.6554846,1.80705882 Z"/>
+    <path fill="url(#oreoid-ae)" d="M63.3370044,1.57235294 C63.3354457,1.7070107 63.4142498,1.8299327 63.5380559,1.88596185 C63.6618619,1.94199101 63.8074197,1.92060522 63.909415,1.83140065 C64.0114103,1.74219607 64.0506888,1.60192503 64.0096256,1.47352941 L63.863326,0.501176471 C63.8471744,0.301569935 63.6729495,0.151175449 63.470815,0.162352941 L63.470815,0.162352941 C63.274457,0.209533175 63.1518227,0.40282799 63.1942731,0.598235294 L63.3370044,1.57235294 Z"/>
+    <path fill="url(#oreoid-af)" d="M62.394978,1.76470588 C62.4024384,1.89944546 62.4896202,2.01712251 62.6172677,2.06475001 C62.7449152,2.11237751 62.8889539,2.0809729 62.9845269,1.98467687 C63.0800999,1.88838085 63.1091821,1.7453549 63.0586784,1.62 L62.8427974,0.658235294 C62.8107444,0.462650021 62.6275422,0.327526192 62.4288767,0.352941176 L62.4288767,0.352941176 C62.2351814,0.413103827 62.1257411,0.615480687 62.1826652,0.808235294 L62.394978,1.76470588 Z"/>
+    <path fill="url(#oreoid-ag)" d="M61.470793,2.02764706 C61.4872905,2.16197581 61.5826201,2.27390358 61.7136547,2.31279407 C61.8446892,2.35168455 61.9865715,2.31016026 62.0751138,2.20700685 C62.163656,2.10385344 62.1820618,1.95863902 62.1220044,1.83705882 L61.8401101,0.894705882 C61.7964217,0.699394338 61.6032914,0.574131038 61.4047797,0.612352941 L61.4047797,0.612352941 C61.2176682,0.687573853 61.1251203,0.896472389 61.1960352,1.08352941 L61.470793,2.02764706 Z"/>
+    <path fill="url(#oreoid-ah)" d="M60.5662335,2.35235294 C60.5867997,2.49004429 60.6900008,2.60150315 60.8268684,2.63384284 C60.9637361,2.66618252 61.1067264,2.61289486 61.1879912,2.49926457 C61.2692559,2.38563429 61.2724411,2.23452885 61.1960352,2.11764706 L60.839207,1.19647059 C60.7830073,1.00429477 60.5809814,0.892581518 60.3860352,0.945882353 L60.3860352,0.945882353 C60.2038923,1.03258493 60.1247598,1.24704585 60.2076211,1.42941176 L60.5662335,2.35235294 Z"/>
+    <path fill="url(#oreoid-ai)" d="M59.6884361,2.73529412 C59.7579484,2.92384246 59.968786,3.02100357 60.1594493,2.95235294 C60.337453,2.85471422 60.4027241,2.63347815 60.3057489,2.45647059 L59.8936123,1.56176471 C59.8232757,1.373921 59.6136682,1.27654146 59.4225991,1.34294118 L59.4225991,1.34294118 C59.2454808,1.44049805 59.1809793,1.66103736 59.2780837,1.83705882 L59.6884361,2.73529412 Z"/>
+    <path fill="url(#oreoid-aj)" d="M58.8374009,3.17647059 C58.8828284,3.30326152 58.9994485,3.39172823 59.1350306,3.40224916 C59.2706127,3.41277009 59.3997539,3.34337403 59.464616,3.22514137 C59.529478,3.10690871 59.5179081,2.96199163 59.4350881,2.85529412 L58.9605066,1.99058824 C58.8762026,1.8089913 58.6610212,1.72682982 58.4752203,1.80529412 L58.4752203,1.80529412 C58.3064064,1.91557274 58.2579996,2.13927204 58.3663877,2.30823529 L58.8374009,3.17647059 Z"/>
+    <path fill="url(#oreoid-ak)" d="M58.0202643,3.68294118 C58.0751813,3.80528213 58.1974581,3.88446169 58.3327871,3.88532027 C58.4681161,3.88616497 58.5914016,3.80853075 58.6478881,3.68689087 C58.7043745,3.56525099 58.6835868,3.4221626 58.5947577,3.32117647 L58.0595154,2.49176471 C57.9634089,2.31628792 57.7436205,2.2482545 57.5635242,2.33823529 L57.5635242,2.33823529 C57.4032794,2.46044515 57.3708184,2.68676292 57.4903744,2.84823529 L58.0202643,3.68294118 Z"/>
+    <path fill="url(#oreoid-al)" d="M57.2423789,4.23529412 C57.3063568,4.35132236 57.4327043,4.41996561 57.5660236,4.41112681 C57.6993429,4.40228801 57.8152985,4.31758054 57.8630488,4.19414494 C57.9107991,4.07070935 57.8816281,3.931077 57.788326,3.83647059 L57.1977753,3.04411765 C57.0892455,2.87530912 56.8644462,2.82285319 56.6910793,2.92588235 L56.6910793,2.92588235 C56.5380247,3.05778299 56.5212908,3.28714132 56.6536123,3.43941176 L57.2423789,4.23529412 Z"/>
+    <path fill="url(#oreoid-am)" d="M56.5055286,4.84764706 C56.6245253,5.00950046 56.8534003,5.04578465 57.0175771,4.92882353 C57.1601667,4.78532309 57.1601667,4.55526515 57.0175771,4.41176471 L56.3788546,3.66352941 C56.2586557,3.5023381 56.0300044,3.46621523 55.865022,3.58235294 L55.865022,3.58235294 C55.7235975,3.72563753 55.7235975,3.95436247 55.865022,4.09764706 L56.5055286,4.84764706 Z"/>
+    <path fill="url(#oreoid-an)" d="M55.8114978,5.50588235 C55.8904803,5.61373679 56.0260161,5.66582441 56.1579002,5.63900786 C56.2897842,5.61219132 56.3935553,5.51144441 56.4231182,5.38151897 C56.4526811,5.25159353 56.4025527,5.11658748 56.295,5.03647059 L55.599185,4.33058824 C55.4681415,4.17888979 55.2388883,4.15777804 55.0817841,4.28294118 L55.0817841,4.28294118 C54.9495608,4.43460281 54.9646443,4.66310225 55.1156828,4.79647059 L55.8114978,5.50588235 Z"/>
+    <path fill="url(#oreoid-ao)" d="M55.1656388,6.21176471 C55.2514826,6.31746967 55.3925379,6.3627449 55.5247764,6.32703894 C55.6570149,6.29133299 55.755247,6.18144735 55.7748829,6.0472616 C55.7945188,5.91307586 55.7318182,5.78015057 55.6152423,5.70882353 L54.8712555,5.05588235 C54.7299284,4.91322781 54.4992224,4.90852281 54.3520705,5.04529412 L54.3520705,5.04529412 C54.2309285,5.2066254 54.2626622,5.43418891 54.4234361,5.55705882 L55.1656388,6.21176471 Z"/>
+    <path fill="url(#oreoid-ap)" d="M53.7829295,6.35294118 L54.5715198,6.95470588 C54.6633934,7.05725157 54.808448,7.09535858 54.9396569,7.05141848 C55.0708658,7.00747838 55.1626792,6.89004746 55.172672,6.75338807 C55.1826649,6.61672869 55.1088913,6.48745203 54.9854405,6.42529412 L54.1968502,5.82352941 C54.0455429,5.69144493 53.8154542,5.70239391 53.6776652,5.84823529 L53.6776652,5.84823529 C53.5684009,6.01683696 53.6151273,6.24087397 53.7829295,6.35294118 L53.7829295,6.35294118 Z"/>
+    <path fill="url(#oreoid-aq)" d="M53.5242291,21.3529412 C53.6543691,21.3128731 53.7483668,21.2006495 53.7639652,21.0667209 C53.7795636,20.9327923 53.7138265,20.8023679 53.5963064,20.7340804 C53.4787862,20.665793 53.3316036,20.6724961 53.2209251,20.7511765 L52.3288546,21.1905882 C52.1424299,21.2664573 52.0513338,21.4756548 52.1236784,21.6617647 L52.1236784,21.6617647 C52.2291976,21.8326766 52.4533224,21.8890766 52.6285903,21.7888235 L53.5242291,21.3529412 Z"/>
+    <path fill="url(#oreoid-ar)" d="M54.1665198,21.7058824 C54.0496423,21.5413958 53.8211097,21.4997976 53.6526872,21.6123529 L52.7945154,22.1117647 C52.6113783,22.1985011 52.5320683,22.4142279 52.6161013,22.5970588 L52.6161013,22.5970588 C52.7329778,22.7618112 52.9621871,22.8027453 53.1299339,22.6888235 L53.9881057,22.1894118 C54.171779,22.104087 54.2514489,21.8881693 54.1665198,21.7058824 L54.1665198,21.7058824 Z"/>
+    <path fill="url(#oreoid-as)" d="M54.6678634,22.4752941 C54.5392594,22.3197054 54.3083916,22.2945944 54.1486784,22.4188235 L53.3279736,22.9764706 C53.1532363,23.0771359 53.0921468,23.2976445 53.1905947,23.4723529 L53.1905947,23.4723529 C53.3190849,23.6271626 53.549325,23.6515064 53.7079956,23.5270588 L54.5287004,22.9694118 C54.7038573,22.8700324 54.7658459,22.6499334 54.6678634,22.4752941 L54.6678634,22.4752941 Z"/>
+    <path fill="url(#oreoid-at)" d="M55.2227313,23.2182353 C55.0835658,23.0711587 54.8508369,23.061731 54.699978,23.1970588 L53.9203084,23.8094118 C53.7526307,23.9220288 53.7080425,24.1472665 53.8203965,24.3141176 L53.8203965,24.3141176 C53.9594425,24.4604659 54.1915818,24.4691156 54.3413656,24.3335294 L55.1210352,23.7211765 C55.2873726,23.6086493 55.3325171,23.3853855 55.2227313,23.2182353 Z"/>
+    <path fill="url(#oreoid-au)" d="M55.8275551,23.9205882 C55.678497,23.7828983 55.4450349,23.7899914 55.3048018,23.9364706 L54.5715198,24.6 C54.4127092,24.7238172 54.3833545,24.9506036 54.5055066,25.11 L54.5055066,25.11 C54.6537318,25.2463135 54.8852662,25.2392307 55.0246916,25.0941176 L55.7597577,24.4305882 C55.9191459,24.3072983 55.9493034,24.0804415 55.8275551,23.9205882 L55.8275551,23.9205882 Z"/>
+    <path fill="url(#oreoid-av)" d="M56.4805507,24.5788235 C56.3222304,24.4533421 56.0915353,24.4760819 55.9613656,24.63 L55.2762555,25.3447059 C55.1270401,25.4789586 55.1143313,25.7067963 55.2477093,25.8564706 L55.2477093,25.8564706 C55.4051522,25.9827402 55.6360641,25.9599005 55.7651101,25.8052941 L56.4520044,25.0905882 C56.6012199,24.9563355 56.6139287,24.7284978 56.4805507,24.5788235 L56.4805507,24.5788235 Z"/>
+    <path fill="url(#oreoid-aw)" d="M57.1799339,25.1911765 C57.0127747,25.0753342 56.7824127,25.1147551 56.6643172,25.2794118 L56.0327313,26.0382353 C55.8905639,26.1805328 55.8905639,26.4094672 56.0327313,26.5517647 L56.0327313,26.5517647 C56.1127695,26.6109405 56.2135531,26.6356888 56.3122792,26.6204101 C56.4110053,26.6051314 56.4993298,26.5511171 56.5572687,26.4705882 L57.1924229,25.7117647 C57.3339719,25.5644664 57.328387,25.3316683 57.1799339,25.1911765 Z"/>
+    <path fill="url(#oreoid-ax)" d="M57.9185683,25.7541176 C57.7442841,25.651737 57.519235,25.7058188 57.4118722,25.8758824 L56.8338106,26.6770588 C56.7049897,26.8307749 56.7240138,27.0581451 56.87663,27.1888235 L56.87663,27.1888235 C57.0502169,27.2920469 57.2754691,27.237725 57.3815419,27.0670588 L57.9613877,26.2658824 C58.0911953,26.1124745 58.0721065,25.8843316 57.9185683,25.7541176 L57.9185683,25.7541176 Z"/>
+    <path fill="url(#oreoid-ay)" d="M58.6982379,26.2641176 C58.5172897,26.1736713 58.2964451,26.2436032 58.2022467,26.4211765 L57.6812775,27.2594118 C57.5634775,27.4221417 57.5991909,27.6482172 57.7615639,27.7676471 L57.7615639,27.7676471 C57.9425121,27.8580934 58.1633567,27.7881615 58.2575551,27.6105882 L58.7785242,26.7705882 C58.8961349,26.6084179 58.8603857,26.3829013 58.6982379,26.2641176 Z"/>
+    <path fill="url(#oreoid-az)" d="M59.510022,26.7194118 C59.3227897,26.6406012 59.1063143,26.7256183 59.0247357,26.91 L58.5644273,27.7835294 C58.4592578,27.9536512 58.5098358,28.175646 58.6786123,28.2847059 L58.6786123,28.2847059 C58.8653465,28.3633854 59.0812783,28.2782688 59.1621145,28.0941176 L59.6224229,27.2205882 C59.7289354,27.0510854 59.6790077,26.8284663 59.510022,26.7194118 L59.510022,26.7194118 Z"/>
+    <path fill="url(#oreoid-aA)" d="M60.3521366,27.1182353 C60.1595507,27.052359 59.9492876,27.1524064 59.8811233,27.3423529 L59.4832599,28.2441176 C59.3902605,28.4213061 59.4566833,28.6395213 59.6331278,28.7364706 L59.6331278,28.7364706 C59.8251797,28.8012024 60.0341887,28.7013735 60.1023568,28.5123529 L60.5002203,27.6105882 C60.5935093,27.4338576 60.5279219,27.2157907 60.3521366,27.1182353 Z"/>
+    <path fill="url(#oreoid-aB)" d="M61.2192291,27.4570588 C61.0229449,27.4061899 60.8215666,27.5198977 60.7660573,27.7129412 L60.434207,28.6394118 C60.351496,28.821275 60.4307149,29.0351868 60.6126211,29.1211765 L60.6126211,29.1211765 C60.8089053,29.1720454 61.0102836,29.0583376 61.065793,28.8652941 L61.3976432,27.9370588 C61.481243,27.7557354 61.4016648,27.5416406 61.2192291,27.4570588 L61.2192291,27.4570588 Z"/>
+    <path fill="url(#oreoid-aC)" d="M62.1095154,27.7358824 C61.9096729,27.6968482 61.7153752,27.8244439 61.674185,28.0217647 L61.408348,28.9694118 C61.3407188,29.1578835 61.4372733,29.365328 61.6260132,29.4370588 L61.6260132,29.4370588 C61.8250355,29.4740108 62.0174976,29.3471004 62.0595595,29.1511765 L62.3253965,28.2017647 C62.3930892,28.0142602 62.2973101,27.8075641 62.1095154,27.7358824 Z"/>
+    <path fill="url(#oreoid-aD)" d="M63.015859,27.9511765 C62.8142407,27.9272013 62.6305833,28.0679656 62.6037225,28.2670588 L62.4038987,29.2323529 C62.3507888,29.4249759 62.4622883,29.6244272 62.6554626,29.6823529 L62.6554626,29.6823529 C62.8570809,29.7063281 63.0407383,29.5655638 63.0675991,29.3664706 L63.2674229,28.4029412 C63.3226774,28.2096357 63.2105679,28.0083066 63.015859,27.9511765 Z"/>
+    <path fill="url(#oreoid-aE)" d="M68.9195815,3.72 C69.2621366,3.82411765 69.9900661,4.23882353 70.0953304,3.79764706 C70.1559912,3.53294118 69.6956828,3.37588235 69.4476872,3.29823529 C69.0712335,3.18529412 68.318326,3.03882353 68.0328634,2.99117647 C67.4369604,2.88882353 66.1773568,2.51823529 66.1149119,3.00176471 C66.0756608,3.29823529 66.4360573,3.29294118 66.800022,3.33 C67.5155723,3.40628506 68.2241645,3.53666638 68.9195815,3.72 L68.9195815,3.72 Z"/>
+    <path fill="url(#oreoid-aF)" d="M71.2139868,3.97058824 C70.8981938,3.85588235 70.7287004,4.00058824 70.7251322,4.22117647 C70.7126432,4.72588235 71.6100661,4.44529412 71.2139868,3.97058824 Z"/>
+    <path fill="url(#oreoid-aG)" d="M64.6162335,3.06705882 C64.671297,3.20698123 64.8196735,3.2879077 64.9686939,3.25929532 C65.1177143,3.23068295 65.2247037,3.10072544 65.2228414,2.95058824 C65.2139207,2.64705882 64.62337,2.53058824 64.6162335,3.06705882 Z"/>
+    <path fill="url(#oreoid-aH)" d="M74.6395374,7.25647059 C74.6948458,7.32 74.7840529,7.56882353 74.9963656,7.58647059 C75.1329165,7.57940677 75.2521405,7.49269697 75.2996696,7.36588235 C75.3746035,7.13117647 75.0588106,6.85588235 74.7876211,6.57529412 C74.3216215,6.11865044 73.8276717,5.69078409 73.3085683,5.29411765 C73.0801982,5.11764706 72.6805507,4.67294118 72.3825991,4.73647059 C72.2478015,4.75691269 72.1471278,4.86986574 72.1435242,5.00470588 C72.127467,5.28882353 72.6288106,5.44588235 72.8696696,5.62764706 C73.5103836,6.11399612 74.1029955,6.65938155 74.6395374,7.25647059 L74.6395374,7.25647059 Z"/>
+    <path fill="url(#oreoid-aI)" d="M62.8820485,3.54882353 C63.2477974,3.46941176 64.1006167,3.37235294 63.686696,2.86411765 C63.6635022,2.85529412 63.4279956,2.81647059 63.445837,2.81294118 C62.6179956,3.03 61.5707048,3.27176471 60.6911233,3.64235294 C60.4449119,3.74647059 59.9328634,3.93352941 59.9185903,4.18941176 C59.8989648,4.60411765 60.3539207,4.43294118 60.5751542,4.33235294 C61.310721,3.98338984 62.0849118,3.72043837 62.8820485,3.54882353 L62.8820485,3.54882353 Z"/>
+    <path fill="url(#oreoid-aJ)" d="M58.749978,4.39941176 C58.5198238,4.54588235 58.5287445,4.88117647 58.7321366,4.96764706 C59.167467,5.15294118 59.3565859,4.33588235 58.749978,4.39941176 Z"/>
+    <path fill="url(#oreoid-aK)" d="M76.0775551,8.43 C76.0963586,8.33378028 76.0637008,8.23476824 75.9911473,8.16802849 C75.9185938,8.10128874 75.8163885,8.07624437 75.7207269,8.10176471 C75.6453722,8.10494235 75.5749292,8.13963092 75.5269465,8.19718891 C75.4789637,8.2547469 75.4579582,8.32975572 75.469163,8.40352941 C75.469163,8.71588235 76.0044053,8.78647059 76.0775551,8.43 Z"/>
+    <path fill="url(#oreoid-aL)" d="M77.6475991,13.0588235 C78.0954185,13.2211765 78.0597357,12.7658824 78.0044273,12.4552941 C77.8428594,11.6693705 77.6038322,10.9009945 77.2907709,10.1611765 C77.1855066,9.91235294 76.9696256,9.37411765 76.8625771,9.31588235 C76.7743469,9.27558153 76.6747027,9.26684847 76.5806828,9.29117647 C76.2595374,9.38647059 76.4236784,9.72882353 76.5378634,9.96176471 C76.9014096,10.6622799 77.1707221,11.4068352 77.3389427,12.1764706 C77.4192291,12.5152941 77.3960352,12.9723529 77.6475991,13.0588235 Z"/>
+    <path fill="url(#oreoid-aM)" d="M56.1058811,7.82823529 C56.6045261,7.18617204 57.1749045,6.60187928 57.8061674,6.08647059 C57.9114317,5.99294118 58.1219604,5.84117647 58.1183921,5.65411765 C58.1113097,5.55903053 58.0567674,5.47369406 57.9729633,5.42658066 C57.8891591,5.37946725 57.7871245,5.3767786 57.7009031,5.41941176 C57.092511,5.83411765 56.3164097,6.67588235 55.738348,7.39058824 C55.5135463,7.66764706 54.90337,8.36470588 55.4172026,8.49882353 C55.7579736,8.58882353 55.9096256,8.08941176 56.1058811,7.82823529 Z"/>
+    <path fill="url(#oreoid-aN)" d="M77.7368062,13.8 C77.5964343,13.8103558 77.4897725,13.9291409 77.4959471,14.0682353 C77.4852423,14.4070588 78.1079075,14.4917647 78.1132599,14.0682353 C78.1150441,13.8705882 77.9562555,13.7541176 77.7368062,13.8 Z"/>
+    <path fill="url(#oreoid-aO)" d="M77.2015639,19.4417647 C77.4317181,19.4841176 77.6012115,19.1382353 77.7136123,18.7658824 C77.908203,18.0934511 78.0607384,17.409804 78.1703524,16.7188235 C78.2096035,16.4417647 78.3148678,15.7641176 78.1988987,15.6176471 C78.0418943,15.4164706 77.8046035,15.5594118 77.6779295,15.6811765 C77.6206185,16.637026 77.4578907,17.5838205 77.1926432,18.5047059 C77.0980837,18.8135294 76.7698018,19.3588235 77.2015639,19.4417647 Z"/>
+    <path fill="url(#oreoid-aP)" d="M76.3879956,20.3364706 C76.4650521,20.5302305 76.6861226,20.6257473 76.8822026,20.55 C76.9888181,20.4064597 77.0033607,20.2153555 76.9196696,20.0576471 C76.6110132,19.9411765 76.4218943,20.0223529 76.3879956,20.3364706 Z"/>
+    <path fill="url(#oreoid-aQ)" d="M74.3986784,24.0864706 C74.8943385,23.638582 75.3531255,23.1523371 75.7706828,22.6323529 C75.9990529,22.3376471 76.8019163,21.3970588 75.9490969,21.4923529 C75.7046696,21.6176471 75.5672907,21.9723529 75.3460573,22.2547059 C74.954249,22.7416478 74.525402,23.1982706 74.0632599,23.6205882 C73.9116079,23.7635294 73.4174009,24.0970588 73.4334581,24.3405882 C73.4622078,24.4188054 73.5078745,24.4898716 73.5672687,24.5488235 C73.8794934,24.7270588 74.204207,24.2664706 74.3986784,24.0864706 Z"/>
+    <path fill="url(#oreoid-aR)" d="M72.7376432,24.8682353 C72.3469163,24.9141176 72.4289868,25.4135294 72.7537004,25.4435294 C73.0784141,25.4735294 73.2104405,24.8135294 72.7376432,24.8682353 Z"/>
+    <path fill="url(#oreoid-aS)" d="M55.2958811,21.3529412 C54.9836564,21.2347059 54.8284361,21.3529412 54.7927533,21.6705882 C54.9515419,22.1311765 55.649141,21.6935294 55.2958811,21.3529412 Z"/>
+    <path fill="url(#oreoid-aT)" d="M67.5350881,26.9541176 C67.8080617,27.2664706 68.2291189,27.0352941 68.546696,26.9541176 C69.2253806,26.7952618 69.889574,26.5809978 70.5324449,26.3135294 C70.773304,26.2147059 71.3763436,26.0541176 71.4102423,25.7841176 C71.419163,25.6958824 71.2318282,25.3747059 71.0534141,25.4541176 C70.3825771,25.7488235 69.3335022,26.22 68.3772026,26.4105882 C67.9597137,26.5023529 67.4155507,26.5182353 67.5350881,26.9541176 Z"/>
+    <path fill="url(#oreoid-aU)" d="M56.4234581,23.5976471 C56.9202681,24.1023391 57.4572348,24.5667718 58.029185,24.9864706 C58.2682599,25.1629412 58.7767401,25.6305882 58.9694273,25.2988235 C59.1621145,24.9670588 58.6572026,24.75 58.4109912,24.57 C58.0809251,24.33 57.8240088,24.1482353 57.6027753,23.9629412 C56.990815,23.4476471 56.6553965,22.9341176 56.2111454,22.5882353 C56.134998,22.5546674 56.0472959,22.5586399 55.974569,22.5989511 C55.9018421,22.6392623 55.8526333,22.7111771 55.8418282,22.7929412 C55.7775991,23.0558824 56.2236344,23.3982353 56.4234581,23.5976471 Z"/>
+    <path fill="url(#oreoid-aV)" d="M66.7768282,26.7882353 C66.6866591,26.7024313 66.554844,26.6751439 66.4374549,26.7179808 C66.3200658,26.7608176 66.237752,26.8662434 66.2255286,26.9894118 C66.2023348,27.4517647 67.0729956,27.3176471 66.7768282,26.7882353 Z"/>
+    <path fill="url(#oreoid-aW)" d="M59.6420485,25.6958824 C59.5831718,26.1970588 60.5519604,26.0117647 60.1612335,25.4858824 C59.8614978,25.3782353 59.6670264,25.4964706 59.6420485,25.6958824 Z"/>
+    <path fill="url(#oreoid-aX)" d="M64.9213216,26.6682353 L64.8535242,26.6541176 C64.2843833,26.5270588 63.2799119,26.46 62.5198678,26.2517647 C62.1380617,26.1476471 61.3030837,25.6782353 61.294163,26.2358824 C61.294163,26.5888235 61.9810573,26.6488235 62.4413656,26.7652941 C63.0281245,26.9290947 63.6237921,27.0598924 64.2255066,27.1570588 C64.5948238,27.2047059 65.1479075,27.2911765 65.2335463,27.0176471 C65.3388106,26.7141176 65.1104405,26.7158824 64.9213216,26.6682353 Z"/>
+    <path fill="url(#oreoid-aY)" d="M53.2030837,7.20176471 L54.0327093,7.74529412 C54.1329133,7.8330995 54.2756485,7.85512313 54.3981299,7.80167745 C54.5206113,7.74823177 54.6003931,7.62911114 54.6023816,7.49671324 C54.6043702,7.36431534 54.5282011,7.24290315 54.4073789,7.18588235 L53.5777533,6.64235294 C53.4175257,6.52072478 53.188378,6.54817393 53.0621366,6.70411765 L53.0621366,6.70411765 C52.9641224,6.88026957 53.0268133,7.10161435 53.2030837,7.20176471 L53.2030837,7.20176471 Z"/>
+    <path fill="url(#oreoid-aZ)" d="M52.6856828,8.08235294 L53.5509912,8.56764706 C53.6572846,8.65061369 53.8030128,8.66386522 53.9228183,8.60145848 C54.0426237,8.53905175 54.1140215,8.41269921 54.1049904,8.27906855 C54.0959594,8.14543789 54.0081945,8.02960884 53.8810573,7.98352941 L53.0157489,7.49823529 C52.8471171,7.38875027 52.6210334,7.43175429 52.5054846,7.59529412 L52.5054846,7.59529412 C52.4194593,7.77901798 52.500086,7.99694426 52.6856828,8.08235294 L52.6856828,8.08235294 Z"/>
+    <path fill="url(#oreoid-ba)" d="M52.2289427,9 L53.1210132,9.42352941 C53.2315972,9.50604988 53.3814085,9.51499152 53.5012224,9.44622258 C53.6210362,9.37745365 53.6875218,9.24436527 53.6699575,9.10845478 C53.6523931,8.9725443 53.5541992,8.86027707 53.4207489,8.82352941 L52.5286784,8.4 C52.353027,8.30053745 52.1291948,8.35863375 52.0255507,8.53058824 L52.0255507,8.53058824 C51.9551452,8.71568916 52.0448724,8.92277212 52.2289427,9 L52.2289427,9 Z"/>
+    <path fill="url(#oreoid-bb)" d="M55.0264758,9.41823529 C55.0363004,9.33711501 55.0101188,9.25576233 54.9546923,9.19518668 C54.8992659,9.13461103 54.8200291,9.10075171 54.7374449,9.10235294 C54.294978,9.10235294 54.4252203,9.68294118 54.7106828,9.70588235 C54.8690098,9.69035874 54.9978177,9.57303121 55.0264758,9.41823529 L55.0264758,9.41823529 Z"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M67.9400881 9.31588235C68.9784581 9.31588235 69.7706167 9.31588235 70.2951542 9.33176471 70.7865672 9.33404476 71.2748736 9.40899103 71.7438767 9.55411765 73.1265859 10.0147059 73.9348018 11.0082353 74.2149119 12.5947059 74.526045 14.2358585 74.3147228 15.9320666 73.6100881 17.4494118 72.5931278 19.6447059 70.837533 20.8023529 68.3879075 20.8711765 67.7563216 20.8905882 67.078348 20.8994118 66.2469383 20.8994118 65.6813656 20.8994118 65.1068722 20.8994118 64.5484361 20.8905882 64.230859 20.8905882 63.9150661 20.8905882 63.597489 20.8905882 64.2772467 17.0858824 65.294207 11.4 65.6653084 9.32823529 66.280837 9.32823529 67.1104626 9.32823529 67.9329515 9.32823529M65.9168722 19.4647059L66.293326 19.4470588 67.1390088 19.4064706 67.659978 19.3835294 67.6688987 19.3835294C68.0257269 19.3694118 68.3647137 19.3570588 68.7054846 19.3252941 69.6036052 19.2577124 70.4274942 18.8067717 70.9624229 18.09 72.0917841 16.5617647 72.4164978 14.7547059 71.9276432 12.72 71.8973124 12.5977802 71.8530186 12.4793714 71.7956167 12.3670588 71.2603744 11.2694118 70.4182599 10.9658824 69.8045154 10.9041176 69.4673128 10.8705882 69.1443833 10.8564706 68.8036123 10.8405882L68.7750661 10.8405882 68.343304 10.8194118 67.7438326 10.7841176 67.4762115 10.77 67.4405286 11.0064706 65.9935903 19.0870588 65.9275771 19.4523529M67.9436564 9.01941176C66.9802203 9.01941176 66.0114317 9.01941176 65.4244493 9.01941176 65.0872467 10.9041176 63.9561013 17.2217647 63.2495815 21.1729412L64.5573568 21.1729412C65.1247137 21.1729412 65.6902863 21.1729412 66.2576432 21.1729412 67.0854846 21.1729412 67.7652423 21.1729412 68.3986123 21.1447059 70.9713436 21.0652941 72.8179295 19.8564706 73.8848458 17.5517647 74.614726 15.9791732 74.8341222 14.2215453 74.5128634 12.5205882 74.2113436 10.8176471 73.3371145 9.74823529 71.836652 9.25058824 71.3366912 9.10254777 70.8170097 9.02996618 70.2951542 9.03529412 69.7599119 9.02470588 68.9731057 9.01941176 67.9329515 9.01941176L67.9436564 9.01941176zM66.2897577 19.1382353L67.736696 11.0576471 68.3361674 11.0929412 68.8000441 11.1158824C69.1390308 11.1317647 69.4583921 11.1458824 69.7848899 11.1794118 70.3201322 11.2323529 71.0623348 11.5005882 71.5369163 12.4747059 71.5840302 12.568688 71.620528 12.6675199 71.6457489 12.7694118 72.1131938 14.7105882 71.8045374 16.44 70.7304846 17.8870588 70.2495315 18.5405572 69.5040316 18.9537215 68.6894273 19.0182353 68.3540088 19.0482353 68.0185903 19.0605882 67.6617621 19.0747059L67.1265198 19.0976471 66.280837 19.1382353 66.2897577 19.1382353zM61.1389427 12.4464706C60.9319824 13.5829412 60.2986123 17.0735294 60.2165419 17.5641176 60.1273348 18.0847059 60.0595374 18.8311765 60.4770264 19.2970588 60.6330597 19.4805242 60.8578535 19.5932894 61.0996916 19.6094118L60.839207 20.9152941 60.7517841 20.9382353C60.3680953 21.0600418 59.96969 21.1306649 59.5671145 21.1482353 59.0175991 21.1482353 58.0470264 21.0035294 57.8953744 20.4635294 57.8347137 20.2447059 57.8579075 19.7223529 57.9506828 19.1964706 58.2432819 17.55 59.003326 13.4823529 59.1995815 12.4464706L61.1353744 12.4464706M61.4922026 12.15L58.95337 12.15C58.95337 12.15 57.9988546 17.2376471 57.6598678 19.1452941 57.5795815 19.5952941 57.522489 20.22 57.611696 20.5429412 57.8347137 21.3370588 59.1032379 21.4447059 59.5742511 21.4447059L59.5742511 21.4447059C60.1648018 21.4447059 60.7553524 21.2382353 61.1050441 21.1552941L61.4725771 19.2776471C61.3801685 19.3031525 61.2848266 19.3167939 61.1888987 19.3182353 61.0024676 19.323126 60.8239022 19.2439066 60.7036123 19.1029412 60.4074449 18.7711765 60.4163656 18.1941176 60.5144934 17.6135294 60.6126211 17.0329412 61.4993392 12.1429412 61.4993392 12.1429412L61.4922026 12.15zM61.0711454 8.00470588C61.2499466 8.00228826 61.4287221 8.01112966 61.6063877 8.03117647 61.8190678 8.0568745 61.9751341 8.24134211 61.9632159 8.45294118 61.9364537 9.21352941 61.8936344 9.43764706 61.1050441 9.56117647 60.9444722 9.58573544 60.7822379 9.59812443 60.6197577 9.59823529 60.3819343 9.60467599 60.1450839 9.5657308 59.9221586 9.48352941 59.7703382 9.41874772 59.6687273 9.27448675 59.6598899 9.11117647 59.6152863 8.40529412 59.8757709 8.09823529 60.585859 8.02588235 60.7285903 8.01176471 60.8980837 8.00470588 61.0764978 8.00470588M61.0764978 7.70647059C60.9025259 7.70576913 60.7286347 7.71401556 60.5555286 7.73117647 59.6902203 7.81764706 59.30663 8.26058824 59.3601542 9.12882353 59.3758349 9.40513252 59.5487469 9.64867699 59.8061894 9.75705882 60.0657607 9.85495664 60.3420189 9.9022958 60.6197577 9.89647059 60.798994 9.8956694 60.9779145 9.88151168 61.155 9.85411765 62.1380617 9.70235294 62.2361894 9.30705882 62.2647357 8.46352941 62.2836076 8.10077056 62.016988 7.78477358 61.6527753 7.73823529 61.4621821 7.7152746 61.270275 7.70466373 61.0782819 7.70647059L61.0764978 7.70647059z"/>
+  </g>
+</svg>
